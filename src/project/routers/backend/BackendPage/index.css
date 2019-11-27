@@ -1,0 +1,32 @@
+.trigger {
+    font-size: 18px;
+    line-height: 64px;
+    padding: 0 24px;
+    cursor: pointer;
+    transition: color 0.3s;
+}
+
+.trigger,.menuFold:hover {
+    color: #1890ff;
+}
+
+.header{
+    background: #fff;
+    height: 48px;
+    display:flex;
+    justify-content:space-between;
+    padding:0 15px
+}
+
+.menuFold{
+    font-size: 18px;
+    line-height: 48px;
+}
+
+.logo {
+    height: 42px;
+    background: rgba(48,64,79,0.7);
+    margin: 16px;
+    text-align: center;
+    border-radius: 5px
+}

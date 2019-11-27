@@ -1,0 +1,17 @@
+
+#custom-menu .ant-menu-item-selected > a, .ant-menu-item-selected > a:hover{
+    color: #fff;
+}
+
+#custom-menu  .ant-menu-item{
+    font-size: 14px !important;
+    padding-left: 35px!important;
+    border-bottom: 1px solid #E8E8E8;
+    line-height: 45px;
+    height:45px;
+    margin-bottom: 0;
+}
+
+#custom-menu .ant-menu-item-selected {
+    background-color: #064287;
+}
